@@ -1,5 +1,5 @@
-### Hi there 👋
-## I'm Sriratna Chintapalli
+## Hi there 👋
+### I'm Sriratna Chintapalli
 
 <!--
 **sriratnachintapalli/sriratnachintapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
